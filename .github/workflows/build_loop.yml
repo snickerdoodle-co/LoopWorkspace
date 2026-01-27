@@ -221,7 +221,6 @@ jobs:
           now_line \
           profiles \
           basal_lock \
-          live_activity \
           negative_insulin \
           remote_window \
           no_auth
